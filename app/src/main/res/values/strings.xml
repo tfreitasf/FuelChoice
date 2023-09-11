@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FuelChoice</string>
+    <string name="tv_appdescription">FuelChoice: Calcule o combustível mais econômico.\nEscolha entre gasolina e etanol com facilidade.</string>
+    <string name="et_hint_gasoline_price">Digite o valor da Gasolina</string>
+    <string name="et_hint_ethanol_price">Digite o valor do Etanol</string>
+    <string name="bt_text_calculate">Calcular</string>
+    <string name="tv_tetx_result_gasoline">Com base nos valores é mais vantajoso abastecer com Gasolina</string>
+    <string name="tv_tetx_result_ethanol">Com base nos valores é mais vantajoso abastecer com Etanol</string>
+    <string name="toast_error_null_or_0">Digite valores válidos</string>
+</resources>
